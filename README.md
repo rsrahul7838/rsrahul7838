@@ -76,5 +76,5 @@
 ---
 
 ## 📈 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul10011&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul10011&theme=radical)  
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsrahul7838&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rsrahul7838&theme=radical)  
