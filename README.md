@@ -29,7 +29,7 @@
 
 ### **Clinical Research Network India Pvt. Ltd.** | Software Engineer  
 **May 2024 – Present** | *Tech Stack: PHP, CodeIgniter, MySQL, HTML, CSS, JavaScript*  
-- **Designed and developed** a robust **Electronic Data Capture (EDC) system** using Laravel and CodeIgniter for clinical trial data management.  
+**Designed and developed a robust [Electronic Data Capture (EDC)](https://www.e-medidec.com/) system** using Laravel and CodeIgniter for clinical trial data management.
 - Built a scalable **IWRS system** for subject randomization and drug supply tracking.  
 - Implemented **role-based access control (RBAC)** to ensure security and compliance with industry standards.  
 - Optimized **MySQL database queries and schema** for better system performance.  
@@ -43,12 +43,12 @@
 
 #### **Key Projects**  
 
-**Maxafi (Dapit) - LiveLink**  
+**[Maxafi (Dapit)](https://residuals.app/login) - LiveLink**  
 - Developed a **financial management web application** using **PHP (backend)** and **React.js (frontend)**.  
 - Designed and implemented **RESTful APIs** for user login, product listing, and dashboard analytics.  
 - Improved data flow and frontend-backend integration for a smooth user experience.  
 
-**Emerge360.com - LiveLink**  
+**Emerge360.com (https://www.emerge360.com/) - LiveLink**  
 - Built a **Cron-based Job Sync Engine** in PHP for automated job fetching and updates.  
 - Developed **custom WordPress plugins and child themes** using Divi Builder and Elementor.  
 - Parsed job data and delivered structured content to the frontend for display.  
