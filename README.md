@@ -7,7 +7,7 @@
 ## 🎯 About Me
 - 🔧 Software Engineer with 3.5+ years of experience in **PHP, Laravel, CodeIgniter, and full-stack web development**.  
 - 📱 Skilled in building **scalable, secure, and high-performance web applications** for multiple industries.  
-- 🚀 Experienced in **EDC systems, IWRS, e-commerce platforms, and content management systems**.  
+- 🚀 Experienced in **EDC systems, IWRS, e-commerce platforms, and content management systems**, and various other web applications for different industries. 
 - 🧠 Passionate about learning new technologies, optimizing workflows, and delivering production-ready solutions.  
 - 🤝 Strong collaborator, working seamlessly with **developers, designers, and project managers** to achieve business goals.  
 
@@ -62,8 +62,8 @@
 
 ## 🏆 Achievements & Certifications
 - **Gold Level Badge in Core Java** – HackerRank  
-- **Silver Level Badge in C Programming** – HackerRank  
-- **SQL (Basic) Certification** – HackerRank  
+- **Silver Level Badge in C Programming** – HackerRank
+- **SQL (Basic) [Certification](https://www.hackerrank.com/certificates/dd3ce3b27b3b)** – HackerRank 
 - **National Skill Development Corporation (NSDC) Certificate** – Successfully completed a recognized skill development program during college  
 
 ---
